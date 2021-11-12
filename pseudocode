@@ -3,3 +3,17 @@
 import python libraries
 
 load backdoor_dataset
+
+#Just for Data Analysis/Math portion of STEM Honors
+analyze givenData
+create graphs
+
+separate testValidation
+adjust BERTmodel
+testUsing testSet
+observe accuracyResults
+
+#Linux System Analysis Part
+for files in /home/user/documents/Programs
+  append.tolist(fileName)
+testUsing systemSet

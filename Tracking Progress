@@ -1,1 +1,3 @@
 11/11/2021: OH MY GOSH. I DID IT. Re-installed Miniconda, now have access to various libraries needed for machine learning, including sklearn.
+
+11/14/2021: Apparently Windows Defender already detects backdoors lmao. When I installed my csv for backdoors, it detected it within 30 seconds of downloading. Now it's quarantined

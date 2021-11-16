@@ -5996,7 +5996,6 @@ def main():
 	
 if __name__ == ""__main__"":
     main()"
-,
 nmap_http-title,"local http = require ""http""
 local nmap = require ""nmap""
 local shortport = require ""shortport""

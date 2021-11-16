@@ -1,4 +1,4 @@
-Program Name,"Code (Limited to 50000 charactes, 1000 lines)"
+Program Name,"Code"
 backdoor-factory,"
 import sys
 import os

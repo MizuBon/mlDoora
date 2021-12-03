@@ -1,3 +1,6 @@
 11/11/2021: OH MY GOSH. I DID IT. Re-installed Miniconda, now have access to various libraries needed for machine learning, including sklearn.
 
 11/14/2021: Apparently Windows Defender already detects backdoors lmao. When I installed my csv for backdoors, it detected it within 30 seconds of downloading. Now it's quarantined
+
+12/2/2021: Changed The code from being the basic one to PyCaret. A lot of the code is just 1:1, although I had to resolve a lot of issues with uninstalled and incompatible
+           packages. Had to change the python version to 3.8.10, had to uninstall and reinstall some packages, "upgrade" packages to older versions, etc. 

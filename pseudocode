@@ -2,18 +2,23 @@
 
 import python libraries
 
-load backdoor_dataset
+maliciousSet = load(backdoor_dataset)
+safeSet = load(safeProgram_dataset)
+
+combinedSet = add(maliciousSet, safeSet)
 
 #Just for Data Analysis/Math portion of STEM Honors
 analyze givenData
 create graphs
 
+#Test/Validation Set
 separate testValidation
-adjust BERTmodel
+adjust machineLearning_Algorithms
 testUsing testSet
 observe accuracyResults
 
 #Linux System Analysis Part
-for files in /home/user/documents/Programs
+for files in /home/user/documents/Programs {
   append.tolist(fileName)
+}
 testUsing systemSet

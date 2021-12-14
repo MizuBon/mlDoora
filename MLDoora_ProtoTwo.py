@@ -70,7 +70,6 @@ print(data)
 #plt.pie(label_size,explode=[0.1,0.1],colors=['firebrick','navy'],startangle=90,shadow=True,labels=['Malicious','Safe'],autopct='%1.1f%%')
 
 #Now let's try and train this baby
-#Most of this code is taken from Fake News Machine Learning Project, although some modifications are made according to the dataset
 embed = hub.load("https://tfhub.dev/google/universal-sentence-encoder/4")
 
 #Splits up the data in training and testing sets
